@@ -1,0 +1,5 @@
+.cache
+/out
+/src/boot
+/res/resources.h
+compile_commands.json
